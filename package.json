@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+ssh://git@github.com/bzhoek/urluuid.git"
   },
-  "author": "bas@hoek.com"
+  "author": "bas@hoek.com",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/bzhoek/urluuid/issues"
