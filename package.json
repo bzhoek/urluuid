@@ -1,0 +1,19 @@
+{
+  "name": "urluuid",
+  "version": "1.0.0",
+  "description": "Generate URL safe IDs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bzhoek/urluuid.git"
+  },
+  "author": "bas@hoek.com"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bzhoek/urluuid/issues"
+  },
+  "homepage": "https://github.com/bzhoek/urluuid#readme"
+}
